@@ -9,7 +9,7 @@ module.exports = {
         primary: '#1D4ED8', // Blue for primary buttons and highlights
         secondary: '#10B981', // Green for success or health-related sections
         accent: '#F59E0B', // Yellow for subtle highlights or warning messages
-        background: '#F3F4F6', // Light gray background for sections
+        background: '#43474b', // Light gray background for sections
         card: '#FFFFFF', // White for card backgrounds
         darkText: '#111827', // Dark text for headings
         lightText: '#6B7280', // Lighter text for descriptions or secondary text
