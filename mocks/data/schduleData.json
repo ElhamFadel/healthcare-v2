@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Dr. John Doe",
+      "date": "12th Jan, 3:00 PM",
+      "img": "/path-to-doctor1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Sarah Smith",
+      "date": "14th Jan, 11:00 AM",
+      "img": "/path-to-doctor2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Dr. Ahmed Ali",
+      "date": "15th Jan, 1:00 PM",
+      "img": "/path-to-doctor3.jpg"
+    }
+  ]
+  
