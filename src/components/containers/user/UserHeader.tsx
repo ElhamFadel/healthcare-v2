@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const UserHeader = () => {
   return (
-    <section className="flex items-center justify-between bg-primary/10 p-4 rounded-lg mb-1">
+    <section className="flex items-center justify-between bg-primary/10  rounded-lg mb-1">
       <div>
         <h1 className="text-xl font-bold text-primary">Welcome, Elham!</h1>
       </div>

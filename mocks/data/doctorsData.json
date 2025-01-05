@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. John Doe",
+    "specialty": "Cardiology",
+    "rating": 4.5,
+    "img": "https://via.placeholder.com/150",
+    "availability": ["Monday", "Wednesday", "Friday"],
+    "location": "New York, USA"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Jane Smith",
+    "specialty": "Cardiology",
+    "rating": 4.8,
+    "img": "https://via.placeholder.com/150",
+    "availability": ["Tuesday", "Thursday"],
+    "location": "Los Angeles, USA"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Michael Brown",
+    "specialty": "Neurology",
+    "rating": 4.3,
+    "img": "https://via.placeholder.com/150",
+    "availability": ["Monday", "Thursday", "Saturday"],
+    "location": "London, UK"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Sarah Johnson",
+    "specialty": "Neurology",
+    "rating": 4.7,
+    "img": "https://via.placeholder.com/150",
+    "availability": ["Wednesday", "Friday"],
+    "location": "Berlin, Germany"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Emily Davis",
+    "specialty": "Dentistry",
+    "rating": 4.6,
+    "img": "https://via.placeholder.com/150",
+    "availability": ["Monday", "Tuesday", "Wednesday"],
+    "location": "Sydney, Australia"
+  },
+  {
+    "id": 6,
+    "name": "Dr. William Wilson",
+    "specialty": "Dentistry",
+    "rating": 4.9,
+    "img": "https://via.placeholder.com/150",
+    "availability": ["Thursday", "Saturday"],
+    "location": "Toronto, Canada"
+  },
+  {
+    "id": 7,
+    "name": "Dr. Olivia Martinez",
+    "specialty": "Ophthalmology",
+    "rating": 4.4,
+    "img": "https://via.placeholder.com/150",
+    "availability": ["Monday", "Friday"],
+    "location": "Paris, France"
+  },
+  {
+    "id": 8,
+    "name": "Dr. James Anderson",
+    "specialty": "Ophthalmology",
+    "rating": 4.2,
+    "img": "https://via.placeholder.com/150",
+    "availability": ["Tuesday", "Thursday"],
+    "location": "Dubai, UAE"
+  }
+]
