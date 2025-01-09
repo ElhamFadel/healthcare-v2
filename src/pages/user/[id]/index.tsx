@@ -1,5 +1,5 @@
 import { UpcomingSchedule, UserHeader,FindYourDoctor } from "@/components/containers/user";
-import {BottomNavBar} from "@/components/containers";
+import {BottomNavBar, DailyReportVisualization} from "@/components/containers";
 const UserProfile = () => {
   return (
     <>
@@ -7,7 +7,7 @@ const UserProfile = () => {
       <UserHeader />
       <UpcomingSchedule />
       <FindYourDoctor selectedDoctorId={1} />
-      {/* here visualization and progress */}
+      <DailyReportVisualization completedSessions={4} totalSessions={7} /> 
     </div>
     <BottomNavBar />
     </>
